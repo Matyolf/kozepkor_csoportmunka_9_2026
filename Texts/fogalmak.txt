@@ -1,7 +1,15 @@
-Céh:
+Céh – A középkori városokban, falukban működő mestereknek a  szakmai szervezete volt.
 
-xy:
+Céhmester – A céhek vezetője, aki irányította és ellenőrizte a céheket.
 
-yx:
+Inas – Egy olyan fiatal tanuló, aki egy mester mellett sajátította el a mesterségét.
 
-stb...
+Király - Ő volt az ország uralkodója, vezetője (pl. Luxemburgi Zsigmond).
+
+Vám - Egy adó, amelyet a kereskedőknek kellett fizetniük az áruik után.
+
+Őrszolgálat - Egy városi polgár kötelessége volt, amely során a városfalon teljesítették a szolgálatot.
+
+Városfal - Egy kőből épített védelmi fal, amelynek célja a lakók és a vagyon megóvása volt a támadásoktól.
+
+Jobbágy - A földesúr fennhatósága alatt élő paraszt volt, aki földet művelt és különféle szolgáltatásokkal tartozott az urának.
