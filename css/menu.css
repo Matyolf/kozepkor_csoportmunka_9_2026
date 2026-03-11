@@ -13,3 +13,13 @@ a:active {
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
 }
+
+nav {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+}
+
+@media screen and (max-width: 600px) {
+    
+    grid-template-columns: 100%;
+}

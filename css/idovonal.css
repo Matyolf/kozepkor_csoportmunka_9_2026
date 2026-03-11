@@ -1,17 +1,23 @@
 main {
     border: 2px;
     border-style: solid ;
-    border-color: burlywood;
+    border-color: brown;
 }
 
 img {
     border: 2px;
     border-style: solid ;
-    border-color: burlywood;
+    border-color: brown;
 }
 
 p {
     border: 2px;
     border-style: solid ;
-    border-color: burlywood;
+    border-color: brown;
+}
+
+h2 {
+    border: 2px;
+    border-style: solid ;
+    border-color: brown;
 }
