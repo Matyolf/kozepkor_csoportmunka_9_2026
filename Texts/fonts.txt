@@ -2,3 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
 </style>
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fruktur:ital@0;1&family=New+Rocker&display=swap');
+</style>
