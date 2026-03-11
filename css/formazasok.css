@@ -1,24 +1,22 @@
 body {
-    background-color: antiquewhite;
-    color: black;
-    font-size: 15px;   
-}
-
-.new-rocker-regular {
+  background-color: antiquewhite;
+  color: black;
+  font-size: 15px;
   font-family: "New Rocker", system-ui;
   font-weight: 400;
   font-style: normal;
 }
 
-.fruktur-regular {
+h1 {
   font-family: "Fruktur", system-ui;
   font-weight: 400;
   font-style: normal;
+  color: black;
 }
 
-.fruktur-regular-italic {
+h2 {
   font-family: "Fruktur", system-ui;
   font-weight: 400;
   font-style: italic;
+  color: black;
 }
-
