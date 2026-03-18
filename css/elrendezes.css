@@ -1,10 +1,23 @@
-#elrendezes{
+main {
+    margin: 20px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+p {
+    font-size: 17px;
+}
+
+.elrendezes{
     display: grid;
     grid-template-columns: 45% 55%;
 }
 
 @media screen and (max-width: 600px) {
-    .container {
+    .elrendezes {
         grid-template-columns: 100%;
     }
 }
