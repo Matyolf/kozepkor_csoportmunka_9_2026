@@ -6,9 +6,9 @@ main {
 }
 
 img {
-    max-width: 60%;
+    max-width: 55%;
     height: auto;
-    margin-left: 40px;
+    margin-left: 20px;
 }
 
 h2 {
@@ -17,15 +17,12 @@ h2 {
 
 p {
     font-size: 17px;
-    margin-right: 40px;
+    margin-right: 20px;
 }
 
 .elrendezes{
     display: grid;
     grid-template-columns: 45% 55%;
-    border: 2px;
-    border-style: solid ;
-    border-color: brown;
 }
 
 @media screen and (max-width: 600px) {
