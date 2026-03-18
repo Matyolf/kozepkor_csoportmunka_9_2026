@@ -17,8 +17,19 @@ a:active {
 nav {
     display: grid;
     grid-template-columns: 33% 34% 33%;
+
+    border: 1px;
+    border-style: solid ;
+    border-color: brown;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 @media screen and (max-width: 600px) {
-    grid-template-columns: 100%;
+    .container {
+        grid-template-columns: 100%;
+    }
 }
