@@ -19,6 +19,13 @@ nav {
     grid-template-columns: 33% 34% 33%;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* pl. desktop */
+}
+
 @media screen and (max-width: 600px) {
-    grid-template-columns: 100%;
+    .container {
+        grid-template-columns: 100%;
+    }
 }
