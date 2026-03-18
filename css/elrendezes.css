@@ -23,6 +23,9 @@ p {
 .elrendezes{
     display: grid;
     grid-template-columns: 45% 55%;
+    border: 2px;
+    border-style: solid ;
+    border-color: brown;
 }
 
 @media screen and (max-width: 600px) {
