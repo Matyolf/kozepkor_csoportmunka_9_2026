@@ -21,6 +21,8 @@ nav {
     border: 1px;
     border-style: solid ;
     border-color: brown;
+
+    font-size: 20px;
 }
 
 .container {
