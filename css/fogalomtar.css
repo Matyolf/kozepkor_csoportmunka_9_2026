@@ -5,7 +5,25 @@ main {
 }
 
 img {
-    border: 2px;
+    border-left: 2px solid brown;
+    border-right: 2px solid brown;
+    text-align: center;
+    margin-right: 15px;
+    height: 15px;
+    width: auto;
+}
+
+#fogalomtar {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    margin: 10px;
+}
+
+.fogalmak {
+    border: 3px;
     border-style: solid ;
     border-color: brown;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
 }
