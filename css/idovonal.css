@@ -9,6 +9,7 @@ img {
     border-style: solid ;
     border-color: brown;
     max-width: 100%;
+    width: 50%;
     height: auto;
 }
 
