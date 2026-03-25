@@ -8,6 +8,18 @@ img {
     border: 2px;
     border-style: solid ;
     border-color: brown;
-    max-width: auto;
-    height: 50%;
+    max-width: 100%;
+    height: auto;
+}
+
+.elrendezes{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    margin: 10px;
+}
+
+@media screen and (max-width: 750px) {
+    .elrendezes {
+        grid-template-columns: 100%;
+    }
 }
